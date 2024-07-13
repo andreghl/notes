@@ -57,3 +57,8 @@
 .bak 
 .mtc
 build/
+*.syntex(busy)
+
+# Files
+python.pdf
+r.pdf
